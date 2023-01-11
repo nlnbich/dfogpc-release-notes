@@ -7,7 +7,7 @@ Time: Wed Jan 11 2023 10:08:23 GMT+0000 (Coordinated Universal Time) <br>
 <ol><li> [CXW-000][CXWOW-002]
 [cx-003]Tech-debt: extract log445678976
  
- <br> <strong>Tickets: </strong><a href="https://dfoglobal.atlassian.net/browse/CXWOW-003)>CXWOW-003</a> <a href="https://dfoglobal.atlassian.net/browse/CXWOW-000)>CXWOW-000</a> <a href="https://dfoglobal.atlassian.net/browse/CXWOW-002)>CXWOW-002</a> </li></ol>
+ <br> <strong>Tickets: </strong><a href="https://dfoglobal.atlassian.net/browse/CXWOW-003">CXWOW-003</a> <a href="https://dfoglobal.atlassian.net/browse/CXWOW-000">CXWOW-000</a> <a href="https://dfoglobal.atlassian.net/browse/CXWOW-002">CXWOW-002</a> </li></ol>
 
 
 
