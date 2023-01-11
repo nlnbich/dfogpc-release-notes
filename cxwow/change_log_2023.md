@@ -5,7 +5,7 @@
 ### BUILD ID: [114086](https://dfoglobal.visualstudio.com/DFO/_build/results?buildId=114086&view=results) - Total: 1511 <br>  
 Time: Wed Jan 11 2023 09:23:01 GMT+0000 (Coordinated Universal Time) <br>  
 <ol><li>[CXW-000][CXWOW-002]
-[cx-003]Tech-debt: extract log44567 <br> <strong>Tickets:</strong> [CX-003](https://dfoglobal.atlassian.net/browse/CX-003) [CXW-000](https://dfoglobal.atlassian.net/browse/CXW-000) [CXWOW-002](https://dfoglobal.atlassian.net/browse/CXWOW-002)   
+[cx-003]Tech-debt: extract log44567 <br> <strong>Tickets:</strong> <br> [CX-003](https://dfoglobal.atlassian.net/browse/CX-003) [CXW-000](https://dfoglobal.atlassian.net/browse/CXW-000) [CXWOW-002](https://dfoglobal.atlassian.net/browse/CXWOW-002)   
  
 </li>
 <li> [CXW-000](https://dfoglobal.atlassian.net/browse/CXW-000)  [CXWOW-002](https://dfoglobal.atlassian.net/browse/CXWOW-002)  [CXWOW-003](https://dfoglobal.atlassian.net/browse/CXWOW-003)   [CXW-000][CXWOW-002]
@@ -167,7 +167,7 @@ Time: Wed Jan 11 2023 08:44:40 GMT+0000 (Coordinated Universal Time) <br>
 ### BUILD ID: [114079](https://dfoglobal.visualstudio.com/DFO/_build/results?buildId=114079&view=results) - Total: 47 <br>  
 Time: Wed Jan 11 2023 08:42:41 GMT+0000 (Coordinated Universal Time) <br>  
 <ol><li> [CXWOW-581] Dispute case actions
- 
+ [[[
 </li></ol>
 
 aaa
