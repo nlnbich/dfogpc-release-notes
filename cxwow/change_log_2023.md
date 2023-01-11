@@ -4,7 +4,7 @@
 
 ### BUILD ID: [114084](https://dfoglobal.visualstudio.com/DFO/_build/results?buildId=114084&view=results) - Total: 134 <br>  
 Time: Wed Jan 11 2023 09:13:37 GMT+0000 (Coordinated Universal Time) <br>  
-<ol><li>[CXWOW-002](https://dfoglobal.atlassian.net/browse/CXWOW-002)  [CXW-000][CXWOW-002]
+<ol><li> [CXWOW-002](https://dfoglobal.atlassian.net/browse/CXWOW-002)  [CXW-000][CXWOW-002]
 [cx-003]Tech-debt: extract log44567
  
 </li></ol>
