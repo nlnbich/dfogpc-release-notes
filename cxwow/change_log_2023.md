@@ -10,9 +10,9 @@
 <ol><li> [cxwow-841] Update label
 https://dfoglobal.atlassian.net/browse/CXWOW-841
  
- <div style="color:red">
+
 <strong>Tickets: </strong><a href="https://dfoglobal.atlassian.net/browse/CXWOW-841" style="color:red">CXWOW-841</a>
- </div>
+
   </li>
 <li> [CXWOW-581] Dispute case actions
  
