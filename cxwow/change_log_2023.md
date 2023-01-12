@@ -2,6 +2,17 @@
 
 
 
+### BUILD ID: [114131](https://dfoglobal.visualstudio.com/DFO/_build/results?buildId=114131&view=results) - Total: 1 <br>  
+<ul>
+<li>Project: CXWOW - web (FrontEnd)}</li>
+<li>Time: Thu Jan 12 2023 07:17:41 GMT+0000 (Coordinated Universal Time)</li>
+</ul>
+<ol><li> [CXWOW-842] [Prod] Admin - Sale channel - Error at Time period
+ 
+ <br> <strong>Tickets: </strong><a href="https://dfoglobal.atlassian.net/browse/CXWOW-842">CXWOW-842</a> </li></ol>
+
+
+
 ### BUILD ID: [/Users/bichngo/Projects/cxwow_theme_builder/config_build/log.release-notes.js](https://dfoglobal.visualstudio.com/DFO/_build/results?buildId=/Users/bichngo/Projects/cxwow_theme_builder/config_build/log.release-notes.js&view=results) - Total: 1 <br>  
 <ul>
 <li>Project: CXWOW Help Center - Theme Builder & Defalut Theme}</li>
