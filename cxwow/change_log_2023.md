@@ -7,7 +7,7 @@ Time: Thu Jan 12 2023 06:44:21 GMT+0000 (Coordinated Universal Time) <br>
 <ol><li> [cxwow-840] [Prod] Error when select Customer's concern at Workstation filter
 https://dfoglobal.atlassian.net/browse/CXWOW-840
  <br>
- > <strong>Tickets: </strong><a href="https://dfoglobal.atlassian.net/browse/CXWOW-840">CXWOW-840</a> </li></ol>
+> <strong>Tickets: </strong><a href="https://dfoglobal.atlassian.net/browse/CXWOW-840">CXWOW-840</a> </li></ol>
 
 
 
