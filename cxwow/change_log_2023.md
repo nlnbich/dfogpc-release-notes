@@ -4,7 +4,7 @@
 
 ### BUILD ID: [114137](https://dfoglobal.visualstudio.com/DFO/_build/results?buildId=114137&view=results) - Total: 10 <br>  
 <ul>
-<li>Project: CXWOW - web (FrontEnd)}</li>
+<li>Project: CXWOW - web (FrontEnd)</li>
 <li>Time: Thu Jan 12 2023 08:12:57 GMT+0000 (Coordinated Universal Time)</li>
 </ul>
 <ol><li> [cxwow-841] Update label
