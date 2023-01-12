@@ -11,7 +11,7 @@
 https://dfoglobal.atlassian.net/browse/CXWOW-841
  
 <div>
-<strong>Tickets: </strong><a href="https://dfoglobal.atlassian.net/browse/CXWOW-841" style="color:red">CXWOW-841</a>
+<strong> &rarr; Tickets: </strong><a href="https://dfoglobal.atlassian.net/browse/CXWOW-841" style="color:red">CXWOW-841</a>
  </div>
 
   </li>
