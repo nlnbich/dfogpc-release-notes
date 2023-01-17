@@ -2,6 +2,21 @@
 
 
 
+### BUILD ID: [114202](https://dfoglobal.visualstudio.com/DFO/_build/results?buildId=114202&view=results) - Total: 1 <br>  
+<ul>
+<li>Project: CXWOW Help Center - Theme Builder & Defalut Theme}</li>
+<li>Time: Tue Jan 17 2023 07:08:12 GMT+0000 (Coordinated Universal Time)</li>
+<li>DEV NOTES: re-deploy <strong>cxwow_helpdesk_web</strong> to apply for PUBLISHED help center sites</li>
+</ul> 
+<br>  
+<ol><li> [CXWOW-857] Help center - Translation (add en-us to common sheet)
+Ref
+[https://dfoglobal.atlassian.net/browse/CXWOW-857]
+ 
+ <br> <strong>Tickets: </strong><a href="https://dfoglobal.atlassian.net/browse/CXWOW-857">CXWOW-857</a> </li></ol>
+
+
+
 ### BUILD ID: [114180](https://dfoglobal.visualstudio.com/DFO/_build/results?buildId=114180&view=results) - Total: 1 <br>  
 <ul>
 <li>Project: CXWOW Help Center - Theme Builder & Defalut Theme}</li>
