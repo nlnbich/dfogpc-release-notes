@@ -2,6 +2,21 @@
 
 
 
+### BUILD ID: [114428](https://dfoglobal.visualstudio.com/DFO/_build/results?buildId=114428&view=results) - Total: 1 <br>  
+<ul>
+<li>Project: CXWOW Help Center - Theme Builder & Defalut Theme}</li>
+<li>Time: Tue Jan 31 2023 09:46:04 GMT+0000 (Coordinated Universal Time)</li>
+<li>DEV NOTES: re-deploy <strong>cxwow_helpdesk_web</strong> to apply for PUBLISHED help center sites</li>
+</ul> 
+<br>  
+<ol><li> [CXWOW-846] Default Theme - Search result page - Missing previous button of the last page
+Ref
+[https://dfoglobal.atlassian.net/browse/CXWOW-846]
+ 
+ <br> <strong>Tickets: </strong><a href="https://dfoglobal.atlassian.net/browse/CXWOW-846">CXWOW-846</a> </li></ol>
+
+
+
 ### BUILD ID: [114415](https://dfoglobal.visualstudio.com/DFO/_build/results?buildId=114415&view=results) - Total: 3 <br>  
 <ul>
 <li>Project: CXWOW Help Center - Theme Builder & Defalut Theme}</li>
