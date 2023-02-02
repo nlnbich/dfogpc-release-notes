@@ -2,6 +2,15 @@
 
 
 
+### BUILD ID: [114475](https://dfoglobal.visualstudio.com/DFO/_build/results?buildId=114475&view=results)<br>  
+<ul>
+<li>Project: CXWOW - web (FrontEnd)</li>
+<li>Time: Thu Feb 02 2023 08:12:42 GMT+0000 (Coordinated Universal Time)</li>
+</ul>
+<ol><li>build:all <div>&rarr; Tickets:  </div></li></ol>
+
+
+
 ### BUILD ID: [114428](https://dfoglobal.visualstudio.com/DFO/_build/results?buildId=114428&view=results) - Total: 1 <br>  
 <ul>
 <li>Project: CXWOW Help Center - Theme Builder & Defalut Theme}</li>
