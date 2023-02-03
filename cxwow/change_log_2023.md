@@ -2,6 +2,15 @@
 
 
 
+### BUILD ID: [114493](https://dfoglobal.visualstudio.com/DFO/_build/results?buildId=114493&view=results)<br>  
+<ul>
+<li>Project: CXWOW - web (FrontEnd)</li>
+<li>Time: Fri Feb 03 2023 05:05:52 GMT+0000 (Coordinated Universal Time)</li>
+</ul>
+<ol><li>Updated package.json <div>&rarr; Tickets:  </div></li></ol>
+
+
+
 ### BUILD ID: [114489](https://dfoglobal.visualstudio.com/DFO/_build/results?buildId=114489&view=results)<br>  
 <ul>
 <li>Project: CXWOW - web (FrontEnd)</li>
