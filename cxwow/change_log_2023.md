@@ -2,6 +2,21 @@
 
 
 
+### BUILD ID: [114649](https://dfoglobal.visualstudio.com/DFO/_build/results?buildId=114649&view=results) - Total: 1 <br>  
+<ul>
+<li>Project: CXWOW Help Center - Theme Builder & Defalut Theme}</li>
+<li>Time: Mon Feb 13 2023 04:02:39 GMT+0000 (Coordinated Universal Time)</li>
+<li>DEV NOTES: re-deploy <strong>cxwow_helpdesk_web</strong> to apply for PUBLISHED help center sites</li>
+</ul> 
+<br>  
+<ol><li> [CSB-8572] [Help Center] Create Warranty Template for Help Center
+Ref
+[https://dfoglobal.atlassian.net/browse/CSB-8572]
+ 
+ <br> <strong>Tickets: </strong> </li></ol>
+
+
+
 ### BUILD ID: [114493](https://dfoglobal.visualstudio.com/DFO/_build/results?buildId=114493&view=results)<br>  
 <ul>
 <li>Project: CXWOW - web (FrontEnd)</li>
